@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background: url(./img/michael-dziedzic-gEN5Btvf2Eg-unsplash.jpg) no-repeat
+    center center/cover;
+  height: 100vh;
+}
